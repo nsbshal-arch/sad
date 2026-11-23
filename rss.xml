@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Вестник адекватности</title>
+    <link>https://nsbshal-arch.github.io/sad/</link>
+    <description>Цифровой сад Надежды Добрыниной: заметки о работе с людьми, обучении и заботе.</description>
+    <language>ru</language>
+    <lastBuildDate>2026-11-24T12:00:00+03:00</lastBuildDate>
+    <item>
+      <title>Ритм: не спорить с телом</title>
+      <link>https://nsbshal-arch.github.io/sad/notes/ritm-ne-sporit.html</link>
+      <guid>https://nsbshal-arch.github.io/sad/notes/ritm-ne-sporit.html</guid>
+      <pubDate>2026-11-22T12:00:00+03:00</pubDate>
+      <description>Приложение, которое не заставляет быть продуктивной, а помогает планировать сложное на дни силы. Сейчас — прототип, который можно поставить на телефон.</description>
+    </item>
+    <item>
+      <title>Забота заканчивается там, где начинается «ты же тут работала»</title>
+      <link>https://nsbshal-arch.github.io/sad/notes/zabota-zakanchivaetsya.html</link>
+      <guid>https://nsbshal-arch.github.io/sad/notes/zabota-zakanchivaetsya.html</guid>
+      <pubDate>2026-11-21T12:00:00+03:00</pubDate>
+      <description>Компании вкладываются во вход: вау-кухни, пять этапов собеседований, мерч. А человек, который возвращается после декрета, приходит в ту же компанию — и его встречают как незнакомца. Приём — это не финиш, а вход в здание.</description>
+    </item>
+    <item>
+      <title>Обучение, за которое заплатили и не получили</title>
+      <link>https://nsbshal-arch.github.io/sad/notes/obuchenie-zaplatili.html</link>
+      <guid>https://nsbshal-arch.github.io/sad/notes/obuchenie-zaplatili.html</guid>
+      <pubDate>2026-11-19T12:00:00+03:00</pubDate>
+      <description>Бюджеты на обучение выделяются — вопрос не в том, купят ли. Вопрос в том, что компания получает на выходе. Обычно — галочку в отчёте: «обучение проведено, охват 100%».</description>
+    </item>
+    <item>
+      <title>Адекватность — это профессия</title>
+      <link>https://nsbshal-arch.github.io/sad/notes/adekvatnost-kak-professiya.html</link>
+      <guid>https://nsbshal-arch.github.io/sad/notes/adekvatnost-kak-professiya.html</guid>
+      <pubDate>2026-11-16T12:00:00+03:00</pubDate>
+      <description>Не «быть хорошим», а не врать себе о данных. Называть вещи своими именами, когда это неудобно, и не путать желаемое с измеренным.</description>
+    </item>
+    <item>
+      <title>Ценности на плакатах не работают</title>
+      <link>https://nsbshal-arch.github.io/sad/notes/cennosti-na-plakatah.html</link>
+      <guid>https://nsbshal-arch.github.io/sad/notes/cennosti-na-plakatah.html</guid>
+      <pubDate>2026-11-14T12:00:00+03:00</pubDate>
+      <description>Ценности видны не в декларации, а в неудобный момент: когда нужно выбрать между человеком и планом. Всё, что написано на стене, проверяется там.</description>
+    </item>
+  </channel>
+</rss>
